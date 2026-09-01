@@ -2,8 +2,8 @@
 Repo de la clase de programación estructurada de la carrera de ingenieria en electrónica del TS) Zapopan
 # ISJ Unidad Académica Zapopan
 
-**Materia:** [Nombre de la Materia]  
-**Alumno:** [Tu Nombre Completo]  
+**Materia:** [Programacion estructurada]  
+**Alumno:** [Juan jose cecilio gabriel]  
 **Semestre:** 3.er Semestre  
 **Periodo:** Agosto - Diciembre 2026  
 

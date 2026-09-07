@@ -13,7 +13,7 @@ Repo de la clase de programación estructurada de la carrera de ingenieria en el
 
 ## Índice de Unidades
 
-1. [Unidad 1: Introducción y Fundamentos](./unidad01/unidad01.md)
+1. [Unidad 1: Introducción y Fundamentos](./Unidad01/Unidad01.md)
 
 2. [Unidad 2: Conceptos Clave y Desarrollo](./unidad01/unidad01.md)
 3. [Unidad 3: Aplicación Práctica y Metodología](./unidad-3.md)

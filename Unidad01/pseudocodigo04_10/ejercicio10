@@ -2,8 +2,8 @@
 
 1.Inicio
 2.mensaje de salida"ingresa una señal digital de contro: 1(alto),0(bajo)"
-3.aalmacena el dato en la variable"señal"
-4. se muestra en pantalla la señal almacenada
+3.almacena el dato en la variable"señal"
+4.se muestra en pantalla la señal almacenada
 5.se evalua la señal si es 1 se invierte a 0
 
 2.another item

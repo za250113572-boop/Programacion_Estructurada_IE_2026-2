@@ -3,7 +3,7 @@ Repo de la clase de programación estructurada de la carrera de ingenieria en el
 # TSJ Unidad Académica Zapopan
 ![Texto alternativo de la imagen](
 
-**Materia:** [Programacion estructurada]  
+**Materia:** Programacion estructurada
 **Alumno:** [Juan jose cecilio gabriel]  
 **Semestre:** 3.er Semestre  
 **Periodo:** Agosto - Diciembre 2026  

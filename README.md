@@ -1,9 +1,10 @@
 # Programacion_Estructurada_IE_2026-2
 Repo de la clase de programación estructurada de la carrera de ingenieria en electrónica del TSJ Zapopan
 # TSJ Unidad Académica Zapopan
-![Texto alternativo de la imagen](
+![Texto alternativo de la imagen]
 
 **Materia:** Programacion estructurada
+
 **Alumno:** [Juan jose cecilio gabriel]  
 **Semestre:** 3.er Semestre  
 **Periodo:** Agosto - Diciembre 2026  

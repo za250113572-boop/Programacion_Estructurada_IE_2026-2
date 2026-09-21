@@ -1,1 +1,0 @@
-pseudocodigo.md
